@@ -1,5 +1,5 @@
-Name : Farhad Ali
-ID: IT23035
+# Name : Farhad Ali
+# ID: IT23035
 
 
 # Day 1 Assignment — Number Theory & Modular Arithmetic
