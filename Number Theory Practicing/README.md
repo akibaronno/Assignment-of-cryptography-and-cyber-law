@@ -1,3 +1,7 @@
+Name : Farhad Ali
+ID: IT23035
+
+
 # Day 1 Assignment — Number Theory & Modular Arithmetic
 
 > **Notebook:** `Day 1 Assignment.ipynb`  
