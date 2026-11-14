@@ -1,3 +1,6 @@
+## Name : Farhad Ali
+## ID :IT23035
+
 # 🔢 Day 1 Assignment — Number Theory Algorithms
 
 > Extended Euclid, LCM, Diophantine Equations, Modular Inverse, Fast Modular Exponentiation & Chinese Remainder Theorem — all implemented from scratch in Python.
