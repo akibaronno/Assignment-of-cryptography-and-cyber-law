@@ -1,6 +1,8 @@
 ## Name : Farhad Ali
 ## ID : IT23035
 
+colab link : https://colab.research.google.com/drive/1zwqrooTg4pHv1tA4sSYsUev1k4ebcY9s?usp=sharing
+
 # 🔢 Day 1 Assignment — Number Theory Algorithms
 
 > Extended Euclid, LCM, Diophantine Equations, Modular Inverse, Fast Modular Exponentiation & Chinese Remainder Theorem — all implemented from scratch in Python.
